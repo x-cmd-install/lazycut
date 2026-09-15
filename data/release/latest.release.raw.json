@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1520298,
       "digest": "sha256:1292812d6438f8a01bdc671e82091078628459edac3b1294cad41520775f7dd0",
-      "download_count": 97,
+      "download_count": 98,
       "created_at": "2026-03-26T16:23:39Z",
       "updated_at": "2026-03-26T16:23:40Z",
       "browser_download_url": "https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_darwin_arm64.tar.gz"
