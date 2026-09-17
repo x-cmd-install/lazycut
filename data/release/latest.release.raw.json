@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:87e2a779f7b04ae41e1bcb7063b5efc7d86bd4fc4200afca195d5992baf28356",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-03-26T16:23:39Z",
       "updated_at": "2026-03-26T16:23:39Z",
       "browser_download_url": "https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_checksums.txt"
