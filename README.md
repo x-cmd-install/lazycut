@@ -14,12 +14,13 @@ x install lazycut
 
 ## Code insight
 
-Total: **2,383** lines of code across **20** files in the top 5 languages.
+Total: **3,166** lines of code across **31** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 2,383 | 29 | 418 | 19 |
-| Markdown | 0 | 58 | 20 | 1 |
+| Go | 3,143 | 44 | 510 | 27 |
+| Makefile | 23 | 0 | 11 | 1 |
+| Markdown | 0 | 131 | 52 | 3 |
 
 ## Source
 
@@ -29,7 +30,7 @@ Total: **2,383** lines of code across **20** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.9` (2026-03-26)
-- **Last commit**: 2026-04-06
+- **Last commit**: 2026-09-17
 - **Assets in release**: 2
 
 ## Popularity
@@ -38,18 +39,18 @@ Total: **2,383** lines of code across **20** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 4 · **Open PRs**: 1 · **Closed issues**: 5 · **Open issues**: 5 · **Commits**: 47
+- **Releases**: 11 · **Merged PRs**: 8 · **Open PRs**: 1 · **Closed issues**: 5 · **Open issues**: 5 · **Commits**: 51
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-21 | 5 | 2 | 1 | 5 | 4 | 22 |
-| 360d | 2025-09-22 | 11 | 4 | 1 | 5 | 5 | 45 |
-| last720d | 2024-09-27 | 11 | 4 | 1 | 5 | 5 | 47 |
+| 30d | 2026-08-19 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-20 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-20 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-22 | 5 | 6 | 1 | 4 | 4 | 26 |
+| 360d | 2025-09-23 | 11 | 8 | 1 | 5 | 5 | 49 |
+| last720d | 2024-09-28 | 11 | 8 | 1 | 5 | 5 | 51 |
 
 ## Release assets
 
@@ -67,4 +68,4 @@ Install metadata for lazycut lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:18:55Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:15:35Z._
