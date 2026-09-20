@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/ozemin/lazycut/releases/301974206",
-  "assets_url": "https://api.github.com/repos/ozemin/lazycut/releases/301974206/assets",
-  "upload_url": "https://uploads.github.com/repos/ozemin/lazycut/releases/301974206/assets{?name,label}",
-  "html_url": "https://github.com/ozemin/lazycut/releases/tag/v0.3.9",
-  "id": 301974206,
+  "url": "https://api.github.com/repos/ozemin/lazycut/releases/391399995",
+  "assets_url": "https://api.github.com/repos/ozemin/lazycut/releases/391399995/assets",
+  "upload_url": "https://uploads.github.com/repos/ozemin/lazycut/releases/391399995/assets{?name,label}",
+  "html_url": "https://github.com/ozemin/lazycut/releases/tag/v0.4.0",
+  "id": 391399995,
   "author": {
     "login": "ozemin",
     "id": 131890510,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOQ8V3pc4R_8K-",
-  "tag_name": "v0.3.9",
+  "node_id": "RE_kwDOQ8V3pc4XVEo7",
+  "tag_name": "v0.4.0",
   "target_commitish": "main",
-  "name": "v0.3.9",
+  "name": "v0.4.0",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-03-26T16:20:08Z",
-  "updated_at": "2026-03-26T16:23:40Z",
-  "published_at": "2026-03-26T16:22:24Z",
+  "created_at": "2026-09-17T20:04:03Z",
+  "updated_at": "2026-09-18T10:51:09Z",
+  "published_at": "2026-09-18T10:50:27Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/ozemin/lazycut/releases/assets/382237255",
-      "id": 382237255,
-      "node_id": "RA_kwDOQ8V3pc4WyHpH",
-      "name": "lazycut_0.3.9_checksums.txt",
+      "url": "https://api.github.com/repos/ozemin/lazycut/releases/assets/572426427",
+      "id": 572426427,
+      "node_id": "RA_kwDOQ8V3pc4iHoi7",
+      "name": "lazycut_0.4.0_checksums.txt",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -66,17 +66,17 @@
       "content_type": "text/plain; charset=utf-8",
       "state": "uploaded",
       "size": 100,
-      "digest": "sha256:87e2a779f7b04ae41e1bcb7063b5efc7d86bd4fc4200afca195d5992baf28356",
-      "download_count": 6,
-      "created_at": "2026-03-26T16:23:39Z",
-      "updated_at": "2026-03-26T16:23:39Z",
-      "browser_download_url": "https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_checksums.txt"
+      "digest": "sha256:61df49c12bf528dff3fa6788bee044367fe3bddc10eb3867e63ab822c8e71b7c",
+      "download_count": 0,
+      "created_at": "2026-09-18T10:51:08Z",
+      "updated_at": "2026-09-18T10:51:08Z",
+      "browser_download_url": "https://github.com/ozemin/lazycut/releases/download/v0.4.0/lazycut_0.4.0_checksums.txt"
     },
     {
-      "url": "https://api.github.com/repos/ozemin/lazycut/releases/assets/382237258",
-      "id": 382237258,
-      "node_id": "RA_kwDOQ8V3pc4WyHpK",
-      "name": "lazycut_0.3.9_darwin_arm64.tar.gz",
+      "url": "https://api.github.com/repos/ozemin/lazycut/releases/assets/572426425",
+      "id": 572426425,
+      "node_id": "RA_kwDOQ8V3pc4iHoi5",
+      "name": "lazycut_0.4.0_darwin_arm64.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,15 +101,16 @@
       },
       "content_type": "application/gzip",
       "state": "uploaded",
-      "size": 1520298,
-      "digest": "sha256:1292812d6438f8a01bdc671e82091078628459edac3b1294cad41520775f7dd0",
-      "download_count": 98,
-      "created_at": "2026-03-26T16:23:39Z",
-      "updated_at": "2026-03-26T16:23:40Z",
-      "browser_download_url": "https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_darwin_arm64.tar.gz"
+      "size": 1618032,
+      "digest": "sha256:9fec79f0555e6b801d387723700f202cb71a6d440fa5ca8d8f58c4f3422b451a",
+      "download_count": 3,
+      "created_at": "2026-09-18T10:51:08Z",
+      "updated_at": "2026-09-18T10:51:09Z",
+      "browser_download_url": "https://github.com/ozemin/lazycut/releases/download/v0.4.0/lazycut_0.4.0_darwin_arm64.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/ozemin/lazycut/tarball/v0.3.9",
-  "zipball_url": "https://api.github.com/repos/ozemin/lazycut/zipball/v0.3.9",
-  "body": "**Full Changelog**: https://github.com/ozemin/lazycut/compare/v0.3.8...v0.3.9"
+  "tarball_url": "https://api.github.com/repos/ozemin/lazycut/tarball/v0.4.0",
+  "zipball_url": "https://api.github.com/repos/ozemin/lazycut/zipball/v0.4.0",
+  "body": "## What's Changed\r\n* docs: improve README with \"go install\" command and prerequisites by @samuelroland in https://github.com/ozemin/lazycut/pull/7\r\n* feat: remap section shortcuts for consistency by @mpospirit in https://github.com/ozemin/lazycut/pull/14\r\n* chore: add repository tooling, CI gates and contributor docs by @ozemin in https://github.com/ozemin/lazycut/pull/18\r\n* build(deps): bump the github-actions group with 3 updates by @dependabot[bot] in https://github.com/ozemin/lazycut/pull/19\r\n* fix: render chafa frames as PNG and gate --probe by version by @ozemin in https://github.com/ozemin/lazycut/pull/17\r\n* fix: reject audio-only sources and carry fps as float64 by @ozemin in https://github.com/ozemin/lazycut/pull/20\r\n\r\n## New Contributors\r\n* @samuelroland made their first contribution in https://github.com/ozemin/lazycut/pull/7\r\n* @mpospirit made their first contribution in https://github.com/ozemin/lazycut/pull/14\r\n* @ozemin made their first contribution in https://github.com/ozemin/lazycut/pull/18\r\n* @dependabot[bot] made their first contribution in https://github.com/ozemin/lazycut/pull/19\r\n\r\n**Full Changelog**: https://github.com/ozemin/lazycut/compare/v0.3.9...v0.4.0",
+  "mentions_count": 4
 }
