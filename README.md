@@ -4,7 +4,7 @@
 
 A simple terminal UI for video trimming
 
-![lazycut](https://repo.x-cmd.io/lazycut.svg)
+[![x-cmd/install — lazycut Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazycut.svg)](https://x-cmd.com/install/lazycut)
 
 ## Install
 
@@ -29,35 +29,35 @@ Total: **3,166** lines of code across **31** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.3.9` (2026-03-26)
+- **Latest**: `v0.4.0` (2026-09-18)
 - **Last commit**: 2026-09-17
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 882 · **Forks**: 32 · **Open issues**: 10 · **Contributors**: 5
+- **Stars**: 881 · **Forks**: 32 · **Open issues**: 10 · **Contributors**: 5
 
 ## Totals (cumulative)
 
-- **Releases**: 11 · **Merged PRs**: 8 · **Open PRs**: 1 · **Closed issues**: 5 · **Open issues**: 5 · **Commits**: 51
+- **Releases**: 12 · **Merged PRs**: 8 · **Open PRs**: 1 · **Closed issues**: 5 · **Open issues**: 5 · **Commits**: 51
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-20 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-06-20 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last180d | 2026-03-22 | 5 | 6 | 1 | 4 | 4 | 26 |
-| 360d | 2025-09-23 | 11 | 8 | 1 | 5 | 5 | 49 |
-| last720d | 2024-09-28 | 11 | 8 | 1 | 5 | 5 | 51 |
+| 30d | 2026-08-21 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-22 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-22 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-24 | 5 | 5 | 0 | 3 | 4 | 7 |
+| 360d | 2025-09-25 | 12 | 8 | 1 | 5 | 5 | 49 |
+| last720d | 2024-09-30 | 12 | 8 | 1 | 5 | 5 | 51 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [lazycut_0.3.9_checksums.txt](https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_checksums.txt) | 100 B | `other` |
-| [lazycut_0.3.9_darwin_arm64.tar.gz](https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_darwin_arm64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [lazycut_0.4.0_checksums.txt](https://github.com/ozemin/lazycut/releases/download/v0.4.0/lazycut_0.4.0_checksums.txt) | 100 B | `other` |
+| [lazycut_0.4.0_darwin_arm64.tar.gz](https://github.com/ozemin/lazycut/releases/download/v0.4.0/lazycut_0.4.0_darwin_arm64.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
 
 ## Improve this data
 
@@ -68,4 +68,4 @@ Install metadata for lazycut lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:15:35Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:00:34Z._

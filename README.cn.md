@@ -4,7 +4,7 @@
 
 A simple terminal UI for video trimming
 
-![lazycut](https://repo.x-cmd.io/lazycut.svg?lang=zh)
+[![x-cmd/install — lazycut Code Quality Monitoring Repo Card](https://repo.x-cmd.io/lazycut.svg?lang=zh)](https://x-cmd.com/install/lazycut)
 
 ## 安装
 
@@ -29,35 +29,35 @@ x install lazycut
 
 ## 发布
 
-- **最新版本**: `v0.3.9` (2026-03-26)
+- **最新版本**: `v0.4.0` (2026-09-18)
 - **最近提交**: 2026-09-17
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 882 · **Fork**: 32 · **开放 issue**: 10 · **贡献者**: 5
+- **Star**: 881 · **Fork**: 32 · **开放 issue**: 10 · **贡献者**: 5
 
 ## 累计统计
 
-- **发布数**: 11 · **已合并 PR**: 8 · **开放 PR**: 1 · **已关闭 issue**: 5 · **开放 issue**: 5 · **提交数**: 51
+- **发布数**: 12 · **已合并 PR**: 8 · **开放 PR**: 1 · **已关闭 issue**: 5 · **开放 issue**: 5 · **提交数**: 51
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-20 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 90d | 2026-06-20 | 0 | 4 | 0 | 0 | 0 | 4 |
-| last180d | 2026-03-22 | 5 | 6 | 1 | 4 | 4 | 26 |
-| 360d | 2025-09-23 | 11 | 8 | 1 | 5 | 5 | 49 |
-| last720d | 2024-09-28 | 11 | 8 | 1 | 5 | 5 | 51 |
+| 30d | 2026-08-21 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-22 | 1 | 4 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-22 | 1 | 4 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-24 | 5 | 5 | 0 | 3 | 4 | 7 |
+| 360d | 2025-09-25 | 12 | 8 | 1 | 5 | 5 | 49 |
+| last720d | 2024-09-30 | 12 | 8 | 1 | 5 | 5 | 51 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [lazycut_0.3.9_checksums.txt](https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_checksums.txt) | 100 B | `other` |
-| [lazycut_0.3.9_darwin_arm64.tar.gz](https://github.com/ozemin/lazycut/releases/download/v0.3.9/lazycut_0.3.9_darwin_arm64.tar.gz) | 1.4 MiB | `native/darwin/arm64` |
+| [lazycut_0.4.0_checksums.txt](https://github.com/ozemin/lazycut/releases/download/v0.4.0/lazycut_0.4.0_checksums.txt) | 100 B | `other` |
+| [lazycut_0.4.0_darwin_arm64.tar.gz](https://github.com/ozemin/lazycut/releases/download/v0.4.0/lazycut_0.4.0_darwin_arm64.tar.gz) | 1.5 MiB | `native/darwin/arm64` |
 
 ## 改进这些数据
 
@@ -68,4 +68,4 @@ lazycut 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:15:35Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:00:35Z._
