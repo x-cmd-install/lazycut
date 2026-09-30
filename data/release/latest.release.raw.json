@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 100,
       "digest": "sha256:61df49c12bf528dff3fa6788bee044367fe3bddc10eb3867e63ab822c8e71b7c",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-09-18T10:51:08Z",
       "updated_at": "2026-09-18T10:51:08Z",
       "browser_download_url": "https://github.com/ozemin/lazycut/releases/download/v0.4.0/lazycut_0.4.0_checksums.txt"
